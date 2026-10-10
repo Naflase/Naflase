@@ -4,14 +4,14 @@ Epitech student. I build tools around AI coding agents, and systems programming 
 
 ## Featured project
 
-**Grand Sage** — a voice assistant for macOS that drives Claude Code: wake word,
+**Grand Sage** a voice assistant for macOS that drives Claude Code: wake word,
 animated screen, skills that grow with use, learned memory, and a VS Code
 extension that measures work time from local heartbeats.
 TypeScript (Electron) and Python.
 
 ## Stack
 
-- **Languages** — C, C++, Python, TypeScript, Haskell
+- **Languages** - C, C++, Python, TypeScript, Haskell
 - **Systems** — POSIX, threads, shells, CSFML, ROS 2
 - **Web** — React, Vue, Node.js / Express, Vite, Vitest
 - **Tooling** — Docker, GitHub Actions, Electron, VS Code extensions
